@@ -1,0 +1,6 @@
+/downloads
+/bower_components
+/node_modules
+/bin
+bower.json
+package.json
